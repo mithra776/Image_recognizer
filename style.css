@@ -1,0 +1,24 @@
+body
+{
+   color: white;
+   background: lightblue;
+}
+
+.heading
+{
+    width: 80%;
+    font-size:22px ;
+}
+
+
+#camera , #result
+{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
+
+#result_object_name , #result_object_accuracy , .name_of_objects
+{
+    color: red;
+}
